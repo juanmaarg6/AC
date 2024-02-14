@@ -6,6 +6,6 @@ La asignatura "Arquitectura de Computadores" se centra en el estudio y comprensi
 
 ## Licencia
 
-Parte del contenido de este repositorio ha sido creado por mí y parte creada por los profesores de la asignatura (Mancia Anguita López, Julio Ortega Lopera, Juan José Escobar Pérez), y se distribuye bajo una licencia Creative Commons Zero v1.0 Universal (más información [aquí](https://github.com/juanmaarg6/CAL1/blob/main/LICENSE)).
+Parte del contenido de este repositorio ha sido creado por mí y parte creada por los profesores de la asignatura (Mancia Anguita López, Julio Ortega Lopera, Juan José Escobar Pérez y María Isabel Gsrcía Arenas), y se distribuye bajo una licencia Creative Commons Zero v1.0 Universal (más información [aquí](https://github.com/juanmaarg6/AC/blob/main/LICENSE)).
 
 En caso de que detectes contenidos que violen los derechos de propiedad intelectual, por favor contacta conmigo en juanmaarg6@gmail.com.
